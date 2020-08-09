@@ -1,0 +1,16 @@
+export const LOGIN = 'LOGIN';
+export const SIGN_UP = 'SIGN_UP';
+export const LOGOUT = 'LOGOUT';
+export const LOAD_USER = 'LOAD_USER';
+export const AUTH_ERROR = 'AUTH_ERROR';
+export const GET_ALL_PRODUCTS = 'GET_ALL_PRODUCTS';
+export const CREATE_PRODUCT = 'CREATE_PRODUCT';
+export const GET_PRODUCT = 'GET_PRODUCT';
+export const DELETE_PRODUCT = 'DELETE_PRODUCT';
+export const UPDATE_PRODUCT = 'UPDATE_PRODUCT';
+export const ADD_CART = 'ADD_CART';
+export const REMOVE_CART = 'REMOVE_CART';
+export const CART_ERROR = 'CART_ERROR';
+export const ADD_REVIEW = 'ADD_REVIEW';
+export const UPDATE_PROFILE = 'UPDATE_PROFILE';
+export const UPDATE_PASSWORD = 'UPDATE_PASSWORD';
